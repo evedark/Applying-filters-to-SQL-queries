@@ -9,4 +9,6 @@ SQL Projects
 ![db6](https://github.com/evedark/Applying-filters-to-SQL-queries/assets/6460489/20dad609-3f5e-42cc-9d7a-91307a98c267)
 ![db7](https://github.com/evedark/Applying-filters-to-SQL-queries/assets/6460489/5200dd2c-921c-4eb5-abe0-6a713dc6c210)
 ![db8](https://github.com/evedark/Applying-filters-to-SQL-queries/assets/6460489/e6dcf17f-abd1-4e81-9987-7f44d1149951)
+![db9](https://github.com/evedark/Applying-filters-to-SQL-queries/assets/6460489/aa44b569-643f-4809-8261-0f3b91caf674)
+![db10](https://github.com/evedark/Applying-filters-to-SQL-queries/assets/6460489/351d0391-6e13-485f-90ce-5e7edb4c7984)
 
